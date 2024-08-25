@@ -1,4 +1,4 @@
-Trying out SVM on some datasets to put the learning into practice
+Trying out SVM on some datasets to put the learning into practice.
 
 1.Train a LinearSVC on a linearly separable dataset. Then train an SVC and a SGDClassifier on the same dataset. See if you can get them to produce roughly the same model.
 
